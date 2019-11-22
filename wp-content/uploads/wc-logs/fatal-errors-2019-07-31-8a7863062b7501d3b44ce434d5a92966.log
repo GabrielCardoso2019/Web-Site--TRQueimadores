@@ -1,0 +1,304 @@
+2019-07-31T19:23:22+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:24:25+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:25:27+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:26:29+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:27:32+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:28:34+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:29:36+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:30:38+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:31:41+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:32:44+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:33:49+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:34:13+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:34:44+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:34:57+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:35:04+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:35:09+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:36:46+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:36:51+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:36:56+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:37:10+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:37:15+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:38:21+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:38:25+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:38:53+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:38:59+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:40:01+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:42:04+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:44:07+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:44:53+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:45:02+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:52:58+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T19:54:01+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T20:06:44+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T20:06:47+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T20:06:49+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T20:12:18+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T20:12:26+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
+2019-07-31T20:12:32+00:00 CRITICAL Uncaught Error: Call to a member function get_product_subtotal() on null in C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php:138
+Stack trace:
+#0 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote.php(20): wc_get_template('request-quote-v...', Array, 'C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\plugin-fw\yit-functions.php(69): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\includes\class.yith-ywraq-shortcodes.php(38): yit_plugin_get_template('C:\\xampp\\htdocs...', 'request-quote.p...', Array)
+#4 C:\xampp\htdocs\TRqueimadores\wp-includes\shortcodes.php(325): YITH_YWRAQ_Shortcodes->request_quote_list('', '', 'yith_ywraq_requ...', em C:\xampp\htdocs\TRqueimadores\wp-content\plugins\yith-woocommerce-request-a-quote\templates\request-quote-view.php, na linha 138
+
